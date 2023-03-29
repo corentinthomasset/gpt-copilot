@@ -10,6 +10,7 @@ To install GPT Copilot, follow the steps below:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory (`cd gpt-copilot`).
+2. Add you Open AI Org ID and API key in `.env`: `VITE_OPENAI_ORG_ID` and `VITE_OPENAI_API_KEY`
 3. Install the project dependencies using `npm install`.
 4. Build the project using `npm run build`.
 5. Navigate to [chrome://extensions/](chrome://extensions/) in your Chrome browser.
